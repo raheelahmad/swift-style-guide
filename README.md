@@ -15,7 +15,7 @@ then open a pull request. :zap:
 
 #### Whitespace
 
- * Tabs, not spaces.
+ * Spaces, not tabs (4).
  * End files with a newline.
  * Make liberal use of vertical whitespace to divide code into logical chunks.
  * Don’t leave trailing whitespace.
